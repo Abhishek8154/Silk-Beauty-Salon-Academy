@@ -1,0 +1,7 @@
+{
+  "name": "Silk Beauty Salon & Academy",
+  "description": "Ladies-only beauty salon and professional beauty training academy in Chembur, Mumbai. Expert care, certified courses, and elegant environment.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
